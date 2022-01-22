@@ -1,1 +1,2 @@
 We are going to build a new Car.
+Added windows for the Car.
